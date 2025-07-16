@@ -1,5 +1,6 @@
-## 😀 Olá, sou o Anderson! 👋
-###GGGG
+## 😀 Olá, sou o Anderson!
+Atuo na áres de Dataviz, comprometido em entregar projetos que agregam valores ao negócio dos clientes.
+Atualmente atuo na área de sustentação Power BI, na qual o foco é manter a saúde funcional do ambiente 
 <!--
 **andersonsantos-dataviz-pbi/andersonsantos-dataviz-pbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
