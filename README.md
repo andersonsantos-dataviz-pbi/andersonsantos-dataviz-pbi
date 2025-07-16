@@ -28,8 +28,7 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-https://github.com/andersonsantos-dataviz-pbi/andersonsantos-dataviz-pbi/blob/main/power-bi-overview.png
+<img src="https://github.com/andersonsantos-dataviz-pbi/powerbi/blob/6d33f6d07cee6b20fbe98d58723f3e43c1971cb8/imagens/power-bi-overview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Sou formado como <strong>Técnico em Redes</strong> pela UNA e MBA <strong>Gestão de Projetos</strong> na UNA. <br><br>
   Possuo conhecimento <strong>SQL</strong> em tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Data Science</strong> para poder atuar futuramente em ambientes Databricks e Microsoft Fabric. <br><br>
@@ -59,10 +58,9 @@ https://github.com/andersonsantos-dataviz-pbi/andersonsantos-dataviz-pbi/blob/ma
 
 <div align="center">
   
-  [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardavieira-dev&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Anderson Murilo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andersonsantos-dataviz-pbi&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://streak-stats.demolab.com?user=eduardavieira-dev&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=eduardavieira-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  
 </div>
 
 
