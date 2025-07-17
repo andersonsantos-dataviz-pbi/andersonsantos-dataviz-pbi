@@ -36,7 +36,7 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 </div>
 
   
-## 💻 Linguagens 
+### 💻 Linguagens 
 <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SVG.svg">
 <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
