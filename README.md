@@ -16,8 +16,8 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 - 📚 Estudando Python, Microsoft Fabric
 ---
 ## ⭐ GitHub Stats
-<a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsantos-dataviz-pbi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/andersonsantos-dataviz-pbi" title="Perfil do Anderson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsantos-dataviz-pbi&theme=radical&show_icons=true" />
 
 ## 💻 Linguagens 
 <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
@@ -67,6 +67,7 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 <div align="center">
   
   [![Anderson Murilo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andersonsantos-dataviz-pbi&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 
   
 </div>
