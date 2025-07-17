@@ -68,7 +68,7 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 
 <div align="center">
   
-  [![Anderson Murilo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andersonsantos-dataviz-pbi&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Anderson Murilo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andersonsantos-dataviz-pbi&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/andersonsantos-dataviz-pbi/github-readme-activity-graph)
   
 
   
