@@ -18,7 +18,9 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 ## ⭐ GitHub Stats
 <a href="https://github.com/andersonsantos-dataviz-pbi" title="Perfil do Anderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsantos-dataviz-pbi&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonsantos-dataviz-pbi&theme=radical&hide_border=false" />
 
+  
 ## 💻 Linguagens 
 <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 <img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SVG.svg">
