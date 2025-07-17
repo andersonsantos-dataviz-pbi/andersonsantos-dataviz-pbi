@@ -11,7 +11,7 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
 
 - 🖥️ Técnico em Gerenciamento de Redes e Telecomunicações na UNA
 - 🎓 MBA em Gestão de Projetos na UNA
-- 🪄 Formação Power BI na DATAB
+- 🪄 Formação Power BI na DATAB e Udemy
 - 📜 [Certificacação PL-300](https://learn.microsoft.com/pt-br/users/andersonmurilo-0848/credentials/3c420e1a16ee6c4c?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 - 📚 Estudando Python, Microsoft Fabric
 ---
