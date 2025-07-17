@@ -20,15 +20,23 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsantos-dataviz-pbi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 ## 💻 Linguagens 
-
-[![My Skills](https://skillicons.dev/icons?i=svg,py)](https://skillicons.dev)
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SVG.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg">
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg">
 
 
 
 <img src="https://github.com/andersonsantos-dataviz-pbi/powerbi/blob/6d33f6d07cee6b20fbe98d58723f3e43c1971cb8/imagens/power-bi-overview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<br><br>
 <p align="left"> 
   Sou formado como <strong>Técnico em Redes</strong> pela UNA e MBA <strong>Gestão de Projetos</strong> na UNA. <br><br>
   Possuo conhecimento <strong>SQL</strong> em tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Data Science</strong> para poder atuar futuramente em ambientes Databricks e Microsoft Fabric. <br><br>
