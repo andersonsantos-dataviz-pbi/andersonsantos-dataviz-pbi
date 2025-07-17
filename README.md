@@ -1,7 +1,7 @@
 ###
 # 😀 Olá, sou o Anderson!
 <p align="left">
-Formado em Gerenciamento de Redes e Telecomunicações, MBA em Gestão de Projetos, atuo na área de software por mais de 16 anos. <br>
+Formado em Gerenciamento de Redes e Telecomunicações, MBA em Gestão de Projetos, atuei na área de software por mais de 15 anos. <br>
 Atualmente trabalhando na área de análise de dados, como Consultor/Analista de Business Intelligence (BI). <br>
 Visão no negócio, trabalho em equipe e flexibilidade são características que me permitem executar o trabalho com excelência. <br>
 Visão no cliente interno e externo, autodidata são elementos que oferto como profissional.
