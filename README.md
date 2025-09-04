@@ -31,7 +31,7 @@ Visão no cliente interno e externo, autodidata são elementos que oferto como p
   
   <div align="center">
   
-  ![andersonsantos-dataviz-pbi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsantos-dataviz-pbi&theme=radical&show_icons=true&hide_border=false&layout=compact)
+  ![andersonsantos-dataviz-pbi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsantos-dataviz-pbi&theme=radical&show_icons=true&hide_border=false&layout=small)
   
 </div>
 
